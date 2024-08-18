@@ -1,4 +1,4 @@
-# PruebaTecnicaWeb
+# Technical test
 
 ## Getting Started
 
